@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[MeetingType initMeetingData:]:MeetingType.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PopoverViewController pickerView:titleForRow:forComponent:]:PopoverViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[Room initializeRoomData:]:Room.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PopoverViewController pickerView:numberOfRowsInComponent:]:PopoverViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[appDelegate.roomArray count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PopoverViewController viewDidLoad]:PopoverViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

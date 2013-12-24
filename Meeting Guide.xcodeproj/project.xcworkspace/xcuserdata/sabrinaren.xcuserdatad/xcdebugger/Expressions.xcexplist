@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[GuideAppDelegate applicationDidTimeout:]:GuideAppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RoomViewController viewDidLoad]:RoomViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RoomViewController lock:]:RoomViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
